@@ -1,0 +1,1 @@
+"""Microphone filter application package."""
