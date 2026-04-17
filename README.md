@@ -4,6 +4,8 @@ A **real-time microphone processing** desktop app for Windows. It cleans your mi
 
 Built with [sounddevice](https://python-sounddevice.readthedocs.io/) / PortAudio for low-latency **duplex** audio and [PySide6](https://doc.qt.io/qtforpython/) for the UI.
 
+**Project status:** Experimental / proof-of-concept. Intended for learning and demos; Windows audio routing and latency can be finicky, and the DSP is not production-grade.
+
 ---
 
 ## Features
